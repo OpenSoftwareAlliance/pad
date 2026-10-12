@@ -1,3 +1,17 @@
+<!-- osa:header:start -->
+# OSA Pad
+
+Real-time collaborative document editor. Open alternative to **Google Docs**, part of the [Open Software Alliance](https://github.com/OpenSoftwareAlliance) suite.
+
+| | |
+|---|---|
+| Upstream | [Etherpad](https://github.com/ether/etherpad), kept in sync with this repository |
+| License | Apache-2.0 |
+
+Credit for the original work goes to the Etherpad authors. Everything below this header is the upstream README.
+
+---
+<!-- osa:header:end -->
 # Etherpad — the editor for documents that matter
 
 > Real-time collaborative editing where authorship is the default, your server is the only server, and you decide what AI (if any) ever touches your text.
